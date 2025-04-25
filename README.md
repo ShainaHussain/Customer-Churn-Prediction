@@ -21,7 +21,7 @@ This notebook includes a full end-to-end ML pipeline:
 
 ### 1. Clone the Repo
 
-git clone https://github.com/ShainaHussain/Customer_Churn_Predictor_.git
+git clone https://github.com/ShainaHussain/Customer-Churn-Prediction.git
 cd Customer_Churn_Predictor
 
 
