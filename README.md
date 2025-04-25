@@ -20,46 +20,33 @@ This notebook includes a full end-to-end ML pipeline:
 ## 🚀 Quickstart
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/ShainaHussain/Customer_Churn_Predictor.git
 cd Customer_Churn_Predictor
 
-# Install requirements
+
+
+### Install requirements
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Launch Notebook
 jupyter notebook Customer_Churn_Predictor_.ipynb
 
-📌 Key Techniques Used
+# 📌 Key Techniques Used
 One-hot encoding
-
 StandardScaler for feature scaling
-
 Random Forest for feature importance
-
 GridSearchCV for hyperparameter tuning
-
 Cross-validation
-
 Evaluation using accuracy, F1-score, classification report
-
 Seaborn & Matplotlib for plots
 
-✅ Results Summary
+# ✅ Results Summary
 Best model: Random Forest Classifier after tuning
-
 Evaluation: Model achieved strong results on accuracy and classification metrics
-
 Insights: Geography and tenure appear to be key drivers of churn
 
-📦 Potential Next Steps
-Integrate Streamlit/Flask for live demo
 
-Save and serve model with joblib
-
-Address class imbalance with SMOTE
-
-Add more models (XGBoost, LightGBM)
 
 👤 Author
 Shaina Hussain
